@@ -145,12 +145,16 @@ var my_function = $(function(){
     """
 ```
 
+
 ## Estrategia de Control de Versiones
+
 TODO
 
 ### Gitflow
+
 TODO
 
 
 ## Gestión de sprints
+
 TODO
