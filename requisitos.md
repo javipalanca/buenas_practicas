@@ -30,7 +30,7 @@ El tablero de trabajo tendrá las siguientes columnas:
 
 * **Product Backlog**: con todas las historias del proyecto
 * **Sprint Backlog**: con las historias seleccionadas para el sprint actual
-* **Realizándose**: con las historias seleccionadas del Sprint Backlog, que han sido analizadas y desglosadas si es necesario en tareas más pequeñas (es recomendable que todas las tareas tengan una duración similar).
+* **Pendiente**: con las historias seleccionadas del Sprint Backlog, que han sido analizadas y desglosadas si es necesario en tareas más pequeñas (es recomendable que todas las tareas tengan una duración similar).
 * **Realizándose**: con las historias que están en proceso de desarrollo actualmente.
 * **Verificándose**: en esta fase se verifica que la tarea supera las pruebas de aceptación, si no es así no puede pasar a la siguiente columna.
 * **Terminado**: las tareas terminadas y verificadas se colocan en esta columna.
