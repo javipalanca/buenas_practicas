@@ -48,6 +48,7 @@ Las fichas para las columnas 3,4 y 5 deben tener la siguiente estructura:
 ## Estilo de comentarios
 
 Los comentarios deberán seguir el estándar de generadores de documentación como javadoc, doxygen, sphinx (según lenguaje). Incluirán:
+
 * Una breve descripción del cometido de la función o clase junto con el diseño lógico escrito siguiendo la sintaxis de la asignatura de Programación.
 * Los parámetros de entrada (si es un método) con el tipo de datos descrito.
 * Lo que devuelve el método con el tipo de datos descrito.
